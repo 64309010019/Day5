@@ -17,7 +17,8 @@
         <div class="dropdown-menu">
           <a class="dropdown-item" href="#">การปฏิบัติ</a>
           <a class="dropdown-item" href="#">ข้อบังคับ</a>
-          <a class="dropdown-item" href="#">ความสุจริต</a>  
+          <a class="dropdown-item" href="#">ความสุจริต</a>
+          <a class="dropdown-item" href="#">ข้อมูลเพิ่มเติม</a>    
         </div>
       </li>
       <li class="nav-item">
